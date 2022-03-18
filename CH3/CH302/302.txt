@@ -1,0 +1,3 @@
+Window1,The dock widget can be moved between docks by the user
+Window2,The dock widget can be detached from the main window,and floated as an independent window, and can be closed
+Window3,The dock widget can be closed, moved, and floated
